@@ -1,0 +1,58 @@
+.main
+{
+
+    margin-left:500px;
+}
+div
+{
+    display: flexbox;
+}
+
+input
+{
+   height: 50px;
+   width: 50px;
+    text-align: center;
+    font-size: 24px;
+
+}
+.common
+{
+background-color: burlywood;
+
+}
+.op
+{
+    background-color: brown;
+}
+
+.ans
+{
+    background-color: burlywood;
+}
+.inc
+{
+    background-color: burlywood;
+}
+
+.eqB
+{
+    background-color: brown;
+}
+body{
+   
+    background-image: url('./pexels-karolina-grabowska-6757648.jpg');
+   
+
+}
+#submit
+{
+    width: fit-content;
+    height: fit-content;
+}
+#textbox
+{
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+}
